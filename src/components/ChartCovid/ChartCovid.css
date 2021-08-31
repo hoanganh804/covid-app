@@ -1,0 +1,13 @@
+.chart_form {
+  margin: 20px auto;
+  max-width: 800px;
+}
+.button_chart {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.button_day {
+  margin: 0 2px;
+  min-width: 90px;
+}

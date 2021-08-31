@@ -1,0 +1,15 @@
+h1 {
+  font-size: 44px;
+  font-weight: 600;
+  color: rgb(2, 86, 116);
+  line-height: 44px;
+  margin-bottom: 4px;
+}
+.main_app {
+  display: flex;
+  margin: 20px 0;
+  flex-direction: column;
+  align-items: center;
+  font-size: 14px;
+  color: rgb(104, 104, 104);
+}

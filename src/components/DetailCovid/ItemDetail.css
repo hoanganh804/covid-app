@@ -1,0 +1,55 @@
+.item {
+  margin: 20px 20px;
+  border: 1px solid rgb(227, 227, 227);
+  border-radius: 4px;
+  padding-bottom: 10px;
+
+  font-size: 20px;
+  max-width: 460px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow: 1px 1px 14px 1px rgba(88, 54, 113, 0.2);
+  border-left: 4px solid rgb(107, 3, 116);
+}
+.item_title {
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(5, 109, 109);
+
+  padding-right: 250px;
+}
+.form_ca {
+  padding-left: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.label_title {
+  font-size: 16px;
+  font-weight: 500;
+
+  min-width: 120px;
+}
+.soca {
+  flex: 1;
+  font-weight: 700;
+}
+.socanhiem {
+  color: rgb(157, 23, 23);
+}
+.socatuvong {
+  color: rgb(97, 97, 97);
+}
+.country {
+  font-size: 42px;
+  font-weight: 600;
+  color: rgb(86, 91, 91);
+  margin: 0px 20px;
+  margin-top: 20px;
+
+  border-bottom: 1px solid rgb(227, 227, 227);
+}
